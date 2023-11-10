@@ -1,6 +1,6 @@
 # Space Survival
 
-Space Survival is an Android game designed for pure enjoyment. The game immerses players in a space-themed survival adventure. How the game works and how to play will be explained within the game after you run it.
+Space Survival is a 2D Android game designed for pure enjoyment.
 
 ## How to Play
 
@@ -21,8 +21,6 @@ Space Survival is an Android game designed for pure enjoyment. The game immerses
 3. **Launch Space Survival:**
 
     After installation, launch the game on your Android device.
-
-    Explore the space-themed survival adventure and follow in-game instructions.
 
 ## Developer
 
