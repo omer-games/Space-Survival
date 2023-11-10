@@ -8,7 +8,7 @@ Space Survival is a 2D Android game designed for pure enjoyment.
 
     Download the Space Survival APK from the following link:
 
-    [Download Space Survival APK]([https://link-to-your-apk-file](https://drive.google.com/file/d/1KYKuA0ktXLsGLBRmPwrm2xTGZhoi8XNu/view?usp=sharing))
+    [Download Space Survival APK](https://drive.google.com/file/d/1KYKuA0ktXLsGLBRmPwrm2xTGZhoi8XNu/view?usp=sharing)
 
 2. **Install the Game:**
 
